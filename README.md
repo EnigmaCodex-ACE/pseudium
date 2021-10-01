@@ -1,2 +1,2 @@
-# pseudium
-pseudium discord bot
+# reimi
+reimi discord bot
