@@ -1,0 +1,2 @@
+# pseudium
+pseudium discord bot
